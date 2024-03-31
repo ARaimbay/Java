@@ -13,6 +13,7 @@ public class HelloWorld {
         tom.setSpouse(janet);
 
         Dog fido = new Dog("Fido", LocalDate.of(2018, 1, 1));
+        fido.bark();
         tom.setPet(fido);
 
         System.out.println(tom);

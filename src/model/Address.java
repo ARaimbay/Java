@@ -6,9 +6,9 @@ public class Address {
     private String city;
     private String state;
 
-    public Address(String address1, String address, String city, String state) {
+    public Address(String address1, String address2, String city, String state) {
         this.address1 = address1;
-        this.address = address;
+        this.address2 = address2;
         this.city = city;
         this.state = state;
     }

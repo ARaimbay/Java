@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a73b003e-4c0a-4f18-9bf7-669eea027d8b" name="Changes" comment="added new classes cat">
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Dog.java" afterDir="false" />
+    <list default="true" id="a73b003e-4c0a-4f18-9bf7-669eea027d8b" name="Changes" comment="modified HelloWorld">
       <change beforePath="$PROJECT_DIR$/src/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,13 +100,22 @@
       <option name="project" value="LOCAL" />
       <updated>1711902852496</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="modified HelloWorld">
+      <option name="closed" value="true" />
+      <created>1711904546154</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711904546155</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added info" />
     <MESSAGE value="added new classes" />
     <MESSAGE value="added new classes cat" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new classes cat" />
+    <MESSAGE value="modified HelloWorld" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified HelloWorld" />
   </component>
 </project>

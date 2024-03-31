@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a73b003e-4c0a-4f18-9bf7-669eea027d8b" name="Changes" comment="added info">
-      <change afterPath="$PROJECT_DIR$/src/model/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a73b003e-4c0a-4f18-9bf7-669eea027d8b" name="Changes" comment="added new classes cat" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,11 +74,29 @@
       <option name="project" value="LOCAL" />
       <updated>1711838910884</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added new classes">
+      <option name="closed" value="true" />
+      <created>1711902551715</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711902551715</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added new classes cat">
+      <option name="closed" value="true" />
+      <created>1711902778756</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711902778756</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added info" />
-    <option name="LAST_COMMIT_MESSAGE" value="added info" />
+    <MESSAGE value="added new classes" />
+    <MESSAGE value="added new classes cat" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new classes cat" />
   </component>
 </project>

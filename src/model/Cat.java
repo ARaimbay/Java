@@ -7,7 +7,7 @@ public class Cat extends Pet{
 
     @Override
     public String toString() {
-        return super.toString();
+        return "Cat - name: tony";
     }
 
     public static void main(String[] args) {

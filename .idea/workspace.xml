@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a73b003e-4c0a-4f18-9bf7-669eea027d8b" name="Changes" comment="override in Cat class toString to Pet">
-      <change beforePath="$PROJECT_DIR$/src/model/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Cat.java" afterDir="false" />
+    <list default="true" id="a73b003e-4c0a-4f18-9bf7-669eea027d8b" name="Changes" comment="added default implication to the class - Object class (parent class)">
+      <change afterPath="$PROJECT_DIR$/src/package1/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package2/ClassB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Cat.executor": "Run",
+    "Application.ClassA.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -51,13 +54,26 @@
       <recent name="model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Cat">
+  <component name="RunManager" selected="Application.ClassA">
     <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="model.Cat" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package1.ClassA" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassA" />
         <item itemvalue="Application.Cat" />
         <item itemvalue="Application.HelloWorld" />
       </list>
@@ -168,7 +185,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712263321966</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="override in Cat class default toString to hard coded one">
+      <option name="closed" value="true" />
+      <created>1712263412003</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712263412003</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added default implication to the class - Object class (parent class)">
+      <option name="closed" value="true" />
+      <created>1712263831668</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712263831668</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,6 +213,8 @@
     <MESSAGE value="added behavior" />
     <MESSAGE value="added psvm for cat to call toString method" />
     <MESSAGE value="override in Cat class toString to Pet" />
-    <option name="LAST_COMMIT_MESSAGE" value="override in Cat class toString to Pet" />
+    <MESSAGE value="override in Cat class default toString to hard coded one" />
+    <MESSAGE value="added default implication to the class - Object class (parent class)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added default implication to the class - Object class (parent class)" />
   </component>
 </project>

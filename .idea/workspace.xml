@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a73b003e-4c0a-4f18-9bf7-669eea027d8b" name="Changes" comment="added default implication to the class - Object class (parent class)">
-      <change afterPath="$PROJECT_DIR$/src/package1/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package2/ClassB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a73b003e-4c0a-4f18-9bf7-669eea027d8b" name="Changes" comment="Class member clarification">
+      <change beforePath="$PROJECT_DIR$/src/package2/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/package2/ClassB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712263831668</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Class member clarification">
+      <option name="closed" value="true" />
+      <created>1712353481422</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712353481422</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -215,6 +221,7 @@
     <MESSAGE value="override in Cat class toString to Pet" />
     <MESSAGE value="override in Cat class default toString to hard coded one" />
     <MESSAGE value="added default implication to the class - Object class (parent class)" />
-    <option name="LAST_COMMIT_MESSAGE" value="added default implication to the class - Object class (parent class)" />
+    <MESSAGE value="Class member clarification" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class member clarification" />
   </component>
 </project>

@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a73b003e-4c0a-4f18-9bf7-669eea027d8b" name="Changes" comment="Class member clarification">
+    <list default="true" id="a73b003e-4c0a-4f18-9bf7-669eea027d8b" name="Changes" comment="private vs public methods">
+      <change afterPath="$PROJECT_DIR$/src/package2/otherClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/package2/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/package2/ClassB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -207,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712353481422</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="private vs public methods">
+      <option name="closed" value="true" />
+      <created>1712353788933</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712353788933</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -222,6 +231,7 @@
     <MESSAGE value="override in Cat class default toString to hard coded one" />
     <MESSAGE value="added default implication to the class - Object class (parent class)" />
     <MESSAGE value="Class member clarification" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class member clarification" />
+    <MESSAGE value="private vs public methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="private vs public methods" />
   </component>
 </project>

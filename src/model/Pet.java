@@ -14,6 +14,14 @@ public class Pet extends Object {
         this.dob = dob;
     }
 
+    protected void protectedMethod() {
+        System.out.println("This is the protectedMethod of Pet");
+    }
+
+    void packageProtected() {
+        System.out.println("This is packageProtected method of Pet");
+    }
+
     public String getName() {
         return name;
     }

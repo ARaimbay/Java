@@ -9,4 +9,8 @@ public class ClassB {
     private void privateMethod() {
         System.out.println("This is the private method of ClassB");
     }
+
+    protected void protectedMethod() {
+        System.out.println("This is the protected method of ClassB");
+    }
 }

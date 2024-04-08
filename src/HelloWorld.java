@@ -7,6 +7,9 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World, nice to meet you");
 
+        Person johnny = new Person("Johnny", "Smith", LocalDate.of(2000, 11, 1));
+        Person amy = new Person();
+
         Person tom = new Person("Tom", "Smith", LocalDate.of(1984, 6, 15));
         Person janet = new Person("Janet", "Jackson", LocalDate.of(1985, 12, 3));
 

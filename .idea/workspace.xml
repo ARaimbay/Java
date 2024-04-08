@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a73b003e-4c0a-4f18-9bf7-669eea027d8b" name="Changes" comment="package protected method added">
-      <change beforePath="$PROJECT_DIR$/src/model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Pet.java" afterDir="false" />
+    <list default="true" id="a73b003e-4c0a-4f18-9bf7-669eea027d8b" name="Changes" comment="package protected and protected method in extended class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +232,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712354695682</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="added packageProtected to Pet class">
+      <option name="closed" value="true" />
+      <created>1712354988373</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1712354988373</updated>
+    </task>
+    <task id="LOCAL-00018" summary="super access to package with extended class">
+      <option name="closed" value="true" />
+      <created>1712355292209</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1712355292209</updated>
+    </task>
+    <task id="LOCAL-00019" summary="package protected and protected method in extended class">
+      <option name="closed" value="true" />
+      <created>1712355512912</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1712355512912</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -249,6 +274,9 @@
     <MESSAGE value="private vs public methods" />
     <MESSAGE value="protected method added" />
     <MESSAGE value="package protected method added" />
-    <option name="LAST_COMMIT_MESSAGE" value="package protected method added" />
+    <MESSAGE value="added packageProtected to Pet class" />
+    <MESSAGE value="super access to package with extended class" />
+    <MESSAGE value="package protected and protected method in extended class" />
+    <option name="LAST_COMMIT_MESSAGE" value="package protected and protected method in extended class" />
   </component>
 </project>

@@ -10,6 +10,8 @@ public class HelloWorld {
         Person johnny = new Person("johnny", "smith", LocalDate.of(2000, 11, 1));
         Person amy = new Person();
         System.out.format("Person's first name is: %s.", johnny.getFirstName());
+        johnny.setLastName("Smith");
+        System.out.format("Person's last name is: %s", johnny.getLastName());
 
         Person tom = new Person("Tom", "Smith", LocalDate.of(1984, 6, 15));
         Person janet = new Person("Janet", "Jackson", LocalDate.of(1985, 12, 3));

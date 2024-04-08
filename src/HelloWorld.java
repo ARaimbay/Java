@@ -7,7 +7,7 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World, nice to meet you");
 
-        Person johnny = new Person("Johnny", "Smith", LocalDate.of(2000, 11, 1));
+        Person johnny = new Person("johnny", "smith", LocalDate.of(2000, 11, 1));
         Person amy = new Person();
         System.out.format("Person's first name is: %s.", johnny.getFirstName());
 

@@ -1,9 +1,10 @@
 package model;
 
 import java.time.LocalDate;
+import java.util.Locale;
 
 public class Person {
-    private String firstName;
+    private String firstName; // "johnny"
     private String lastName;
     private LocalDate dob;
     private Address address;
@@ -29,7 +30,8 @@ public class Person {
     }
 
     public String getFirstName() {
-        return firstName;
+
+        return firstName.substring(0,1).toUpperCase() + firstName.substring(1);
     }
 
     public void setFirstName(String firstName) {

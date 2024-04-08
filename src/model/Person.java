@@ -35,6 +35,7 @@ public class Person {
     }
 
     public void setFirstName(String firstName) {
+
         this.firstName = firstName;
     }
 
@@ -43,7 +44,7 @@ public class Person {
     }
 
     public void setLastName(String lastName) {
-        this.lastName = lastName;
+        this.lastName = lastName.substring(0, 1).toUpperCase() + lastName.substring(1);
     }
 
     public LocalDate getDob() {
